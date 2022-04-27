@@ -27,7 +27,6 @@ I currently know how to code in these languages:
 </p>
 <br />
 </p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/877572974025244733)](https://discord.com/users/877572974025244733)
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Champi5169&theme=dark&show_icons=true&layout=compact)](https://github.com/Champi5169)
 -->
