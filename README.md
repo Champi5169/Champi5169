@@ -1,27 +1,22 @@
 ## Hello there 👋
 
 <p align=center>
-I'm a programming enthusiast coding on my free time ☕.
+Champi🤑
 <br />
 <br />
-I currently code on my free time and have multiple projects up on GitHub.
+I code on my free time and have multiple projects up on GitHub.
 <br />
 <br />
 <h1 align=left>Tech Stack 📚🌠</h1>
 <p align=center>
 <img align=right src="https://lanyard-profile-readme.vercel.app/api/877572974025244733?bg=00000000" />
 <p align=left>
-I currently know how to code in these languages:
 <ul>
 - Java
 <br />
 - JavaScript
 <br />
-- C#
-<br />
 - C
-<br />
-- C++
 <br />
 </ul>
 </p>
